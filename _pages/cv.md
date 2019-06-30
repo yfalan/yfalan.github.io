@@ -19,10 +19,10 @@ Education
 Work Experiences
 ======
 * 2018/08 - now: TAL Education, Research Scientist
-  * AI technologies for education, including computer vision, speech recogniton etc.
+  * AI for education, including computer vision, speech recogniton etc.
 
 * 2013/07 - 2018/08: Facebook, Research Scientist
-  * Computer vision infrastructure and backend service
+  * Computer vision infrastructure and backend services
   * Computer vision on mobile
 
 * 2012/06 - 2012/12: Bell Labs, Research Intern
@@ -34,17 +34,17 @@ Work Experiences
   * Face morphing and animation
 
 * 2006/07 - 2007/08: Microsoft, Software Engineer
-  * Parent Control in Windows (Vista and later versions)
+  * Parent control in Windows Vista and later versions
 
 Academic Experiences
 ======
 * 2007/09 - 2013/06: Rutgers University, Research Assistant, Teaching Assistant
   * Realtime face tracking and understanding
-  * MRI image reconstruction.
+  * MRI image reconstruction
 
 * 2004/07 - 2006/07: Institute of Computing Technology, UCAS, Research Assistant
   * Face recognition
   * 3D head pose measurement
 
 * 2002/06 - 2002/09: Institute of HCI, Tsinghua University, Summer Intern
-  * Automatic face detection algorithms.
+  * Automatic face detection
