@@ -1,6 +1,7 @@
 ---
+sitemap: false
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
@@ -9,27 +10,25 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-Selected Journal Papers
-======
+### Selected Journal Papers
 
-1. **[TPAMI]** Hierarchical Sparse Representation for Robust Image Registration,
+1. **[TPAMI'18]** Hierarchical Sparse Representation for Robust Image Registration,
 Yeqing Li, Chen Chen, Fei Yang, Junzhou Huang,
 IEEE Transactions on Pattern Analysis and Machine Intelligence, Sep 2018.
 1. Multi-Pose and Occluded Facial Landmark Localization Via Sparse Shape Representation,
-Yang Yu, Shaoting Zhang, Fei Yang, Dimitris N. Metaxas,
-International Journal on Artificial Intelligence Tools, Volume 24, Issue 04, August 2015.
+Yang Yu, Shaoting Zhang, Fei Yang, Dimitris Metaxas,
+International Journal on Artificial Intelligence Tools, Aug 2015.
 1. Is Interactional Dissynchrony a Clue to Deception? Insights from Automated Analysis of Nonverbal Visual Cues,
-Xiang Yu, Shaoting Zhang, Zhennan Yan, Fei Yang, Junzhou Huang, Norah E. Dunbar, Matthew L. Jensen, Judee K. Burgoon and Dimitris N. Metaxas,
+Xiang Yu, Shaoting Zhang, Zhennan Yan, Fei Yang, Junzhou Huang, Norah E. Dunbar, Matthew L. Jensen, Judee K. Burgoon, Dimitris Metaxas,
 IEEE Transactions on Cybernetics, 2014.
 1. Non-manual Grammatical Marker Recognition based on Multi-scale, Spatio-temporal Analysis of Head Pose and Facial Expressions,
-Jingjing Liu, Bo Liu, Shaoting Zhang, Fei Yang, Peng Yang, Dimitris N. Metaxas and Carol Neidle,
+Jingjing Liu, Bo Liu, Shaoting Zhang, Fei Yang, Peng Yang, Dimitris Metaxas, Carol Neidle,
 Image and Vision Computing, 2014.
 1. Temporal Spectral Residual for fast salient motion detection,
-Xinyi Cui, Qingshan Liu, Shaoting Zhang, Fei Yang, Dimitris N. Metaxas,
+Xinyi Cui, Qingshan Liu, Shaoting Zhang, Fei Yang, Dimitris Metaxas,
 Neurocomputing, 2012.
 
-Selected Conference Papers
-======
+### Selected Conference Papers
 
 1. **[CVPR'18]** Improved Human Pose Estimation through Adversarial Data Augmentation,
 Zhiqiang Tang, Xi Peng, Fei Yang, Rogerio Feris, Dimitris Metaxas,
@@ -65,8 +64,7 @@ IEEE Conference on Automatic Face and Gesture Recognition, 2011.
 Fei Yang, Junzhou Huang, Dimitris Metaxas,
 IEEE Conference on Automatic Face and Gesture Recognition, 2011.
 
-Patents
-======
+### Patents
 
 1. Optimizations for Dynamic Object Instance Detection, Segmentation, and Structure Mapping
 P. Vajda, P. Zhang, F. Yang, Y. Wang, Facebook, US 20190171870.
@@ -79,8 +77,7 @@ J. Wang, E. Shechtman, L. Bourdev, F. Yang, Adobe, US 20130121409.
 1. Methods and Apparatus for Facial Feature Replacement
 L. Bourdev, E. Shechtman, J. Wang, F. Yang, Adobe, US 20130129141.
 
-Dissertations
-======
+### Dissertations
 
 * Facial Expression Transfer by Using 3D-Aware Expression Flow, PhD dissertation, Oct. 2013.
 * Research on Face Verification Algorithms, master degree thesis, Jun. 2006.

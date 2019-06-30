@@ -1,7 +1,8 @@
 ---
+sitemap: false
 layout: archive
-title: "CV"
-permalink: /cv/
+title: ""
+permalink: /cv_cn/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,42 +10,37 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+### 教育背景
 
-* Ph.D in Computer Science, Rutgers - State University of New Jersey, 2013
-* M.S. in Computer Science, Institute of Computing Technology, UCAS, 2006
-* B.S. in Computer Science, Tsinghua University, 2003
+* 博士，计算机科学，新泽西州立大学，2013
+* 硕士，计算机科学，中科院计算所，2006
+* 学士，计算机科学，清华大学，2003
 
-Work Experiences
-======
-* 2018/08 - now: TAL Education, Research Scientist
-  * AI technologies for education, including computer vision, speech recogniton etc.
+### 工业界经历
 
-* 2013/07 - 2018/08: Facebook, Research Scientist
-  * Computer vision infrastructure and backend service
-  * Computer vision on mobile
+* 2018/08 - 现在: 好未来(NYSE:TAL) 算法科学家
+  * AI+教育，包括图像、语音、数据挖掘、NLP等算法
 
-* 2012/06 - 2012/12: Bell Labs, Research Intern
-  * Video compressive sensing
-  * Single-pixel camera
+* 2013/07 - 2018/08: Facebook 算法科学家
+  * 计算机视觉平台，大规模后台服务
+  * 移动端计算机视觉技术
 
-* 2010/05~08, 2011/06~09: Adobe, Research Intern
-  * Facial expression editing in photo and video
-  * Face morphing and animation
+* 2012/06 - 2012/12: 贝尔实验室 实习生
+  * 视频压缩感知，单像素摄像机
 
-* 2006/07 - 2007/08: Microsoft, Software Engineer
-  * Parent Control in Windows (Vista and later versions)
+* 2010/05~08, 2011/06~09: Adobe 实习生
+  * 图像是视频中的表情变化，人脸特效和动画
 
-Academic Experiences
-======
-* 2007/09 - 2013/06: Rutgers University, Research Assistant, Teaching Assistant
-  * Realtime face tracking and understanding
-  * MRI image reconstruction.
+* 2006/07 - 2007/08: Microsoft 软件工程师
+  * Windows中的家长控制
 
-* 2004/07 - 2006/07: Institute of Computing Technology, UCAS, Research Assistant
-  * Face recognition
-  * 3D head pose measurement
+### 学术界经历
 
-* 2002/06 - 2002/09: Institute of HCI, Tsinghua University, Summer Intern
-  * Automatic face detection algorithms.
+* 2007/09 - 2013/06: 新泽西州立大学 在读博士生
+  * 实时人脸特征点追踪、人脸表情分析
+
+* 2004/07 - 2006/07: 中科院计算所 在读硕士生
+  * 人脸识别与验证，3D头部姿态测量
+
+* 2002/06 - 2002/09: 清华大学计算机系人机互动实验室 实习
+  * 人脸检测

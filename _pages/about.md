@@ -1,4 +1,5 @@
 ---
+sitemap: false
 permalink: /
 title: " About me"
 excerpt: "About me"

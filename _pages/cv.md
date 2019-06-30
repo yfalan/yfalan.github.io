@@ -1,6 +1,7 @@
 ---
+sitemap: false
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,15 +10,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+### Education
 
 * Ph.D in Computer Science, Rutgers - State University of New Jersey, 2013
 * M.S. in Computer Science, Institute of Computing Technology, UCAS, 2006
 * B.S. in Computer Science, Tsinghua University, 2003
 
-Work Experiences
-======
+### Work Experiences
+
 * 2018/08 - now: TAL Education, Research Scientist
   * AI for education, including computer vision, speech recogniton etc.
 
@@ -36,8 +36,8 @@ Work Experiences
 * 2006/07 - 2007/08: Microsoft, Software Engineer
   * Parent control in Windows Vista and later versions
 
-Academic Experiences
-======
+### Academic Experiences
+
 * 2007/09 - 2013/06: Rutgers University, Research Assistant, Teaching Assistant
   * Realtime face tracking and understanding
   * MRI image reconstruction

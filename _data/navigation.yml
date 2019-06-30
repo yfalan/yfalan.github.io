@@ -3,5 +3,8 @@ main:
   - title: "CV"
     url: /cv/
 
+  - title: "简历"
+    url: /cv_cn/
+
   - title: "Publications"
     url: /publications/
