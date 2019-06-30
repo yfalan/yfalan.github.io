@@ -37,7 +37,7 @@ IEEE Conference on Computer Vision and Pattern Recognition, 2018.
 Yunchao Gong, Marcin Pawlowski, Fei Yang, Louis Brandy, Lubomir Bourdev, Rob Fergus,
 IEEE Conference on Computer Vision and Pattern Recognition, 2015.
 1. **[CVPR'15]** Deep Sparse Representation for Robust Image Registration,
-Yeqing Li, Chen Chen, Fei Yang and Junzhou Huang,
+Yeqing Li, Chen Chen, Fei Yang, Junzhou Huang,
 IEEE Conference on Computer Vision and Pattern Recognition, 2015.
 1. **[FG'13]** Explicit Occlusion Detection based Deformable Fitting for Facial Landmark Localization,
 Xiang Yu, Fei Yang, Junzhou Huang, Dimitris Metaxas,
