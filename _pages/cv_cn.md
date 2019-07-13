@@ -4,8 +4,7 @@ layout: archive
 title: ""
 permalink: /cv_cn/
 author_profile: true
-redirect_from:
-  - /resume
+
 ---
 
 {% include base_path %}
