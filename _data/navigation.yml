@@ -8,3 +8,9 @@ main:
 
   - title: "Publications"
     url: /publications/
+
+  - title: "Research"
+    url: /files/pages/research.htm
+
+  - title: "Misc"
+    url: /misc/
