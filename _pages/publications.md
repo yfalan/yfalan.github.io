@@ -51,7 +51,7 @@ IEEE Conference on Automatic Face and Gesture Recognition, 2013.
 1. **[CVPR'12]** Facial Expression Editing in Video Using a Temporally-Smooth Factorization,
 Fei Yang, Lubomir Bourdev, Eli Shechtman, Jue Wang, Dimitris Metaxas,
 IEEE Conference on Computer Vision and Pattern Recognition, 2012.
-<a href="https://yfalan.github.io/papers/FeiYang_CVPR2012.pdf">PDF</a>
+<a href="https://yfalan.github.io/files/papers/FeiYang_CVPR2012.pdf">PDF</a>
 1. **[GI'12]** 3D-Aware Appearance Optimization for Face Morphing,
 Fei Yang, Eli Shechtman, Jue Wang, Lubomir Bourdev, Dimitris Metaxas,
 Graphics Interface, 2012.
@@ -88,5 +88,4 @@ L. Bourdev, E. Shechtman, J. Wang, F. Yang, Adobe, US 20130129141.
 ### Dissertations
 
 * Facial Expression Transfer by Using 3D-Aware Expression Flow, PhD dissertation, Oct. 2013.
-<a href="https://yfalan.github.io/files/papers/FeiYang_Thesis2006.pdf">PDF</a>
 * Research on Face Verification Algorithms, master degree thesis, Jun. 2006.
