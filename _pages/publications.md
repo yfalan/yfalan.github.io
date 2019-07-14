@@ -88,5 +88,5 @@ L. Bourdev, E. Shechtman, J. Wang, F. Yang, Adobe, US 20130129141.
 ### Dissertations
 
 * Facial Expression Transfer by Using 3D-Aware Expression Flow, PhD dissertation, Oct. 2013.
-<a href="https://yfalan.github.io/files/papers/Feiyang_Thesis2006.pdf">PDF</a>
+<a href="https://yfalan.github.io/files/papers/FeiYang_Thesis2006.pdf">PDF</a>
 * Research on Face Verification Algorithms, master degree thesis, Jun. 2006.
