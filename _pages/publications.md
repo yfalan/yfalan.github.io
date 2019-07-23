@@ -30,6 +30,9 @@ Neurocomputing, 2012.
 
 ### Selected Conference Papers
 
+1. **[ICCV'19]** Efficient Segmentation: Learning Downsampling Near Semantic Boundaries,
+Dmitrii Marin, Zijian He, Peter Vajda, Priyam Chatterjee, Sam Tsai, Fei Yang, Yuri Boykov,
+International Conference on Computer Vision, 2019.
 1. **[CVPR'18]** Improved Human Pose Estimation through Adversarial Data Augmentation,
 Zhiqiang Tang, Xi Peng, Fei Yang, Rogerio Feris, Dimitris Metaxas,
 IEEE Conference on Computer Vision and Pattern Recognition, 2018.
