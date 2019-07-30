@@ -76,7 +76,10 @@ Fei Yang, Junzhou Huang, Dimitris Metaxas,
 IEEE Conference on Automatic Face and Gesture Recognition, 2011.
 
 ### Patents
-
+1. 一种教学场景下的教师风格语义空间构建方法, TAL 2019.
+1. 一种基于自编码器的异源数据处理方法, TAL 2019.
+1. 一种教学场景下的多路径层级教师风格评价模型, TAL 2019.
+1. 一种细节增强的高分辨率人物图像生成方法, TAL 2019.
 1. Optimizations for Dynamic Object Instance Detection, Segmentation, and Structure Mapping
 P. Vajda, P. Zhang, F. Yang, Y. Wang, Facebook, US 20190171870.
 1. Systems and Methods for Providing Content
