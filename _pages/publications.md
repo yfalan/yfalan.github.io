@@ -71,10 +71,10 @@ Fei Yang, Eli Shechtman, Jue Wang, Lubomir Bourdev, Dimitris Metaxas,
 Graphics Interface, 2012.
 <a href="https://yfalan.github.io/files/papers/FeiYang_GI2012.pdf">PDF</a>
 <a href="https://yfalan.github.io/files/ppt/Feiyang_GI2012_slides.pdf">PPT</a>
-<!---
 1. **[ISBI'12]** Compressed Magnetic Resonance Imaging Based on Wavelet Sparsity and Nonlocal Total Variation,
 Junzhou Huang, Fei Yang,
 IEEE International Symposium on Biomedical Imaging, 2012.
+<!---
 1. **[ICIP’12]** Robust face tracking with a consumer depth camera,
 F Yang, J Huang, X Yu, X Cui, D Metaxas
 International Conference on Image Processing, 2012.
