@@ -48,6 +48,7 @@ IEEE Conference on Computer Vision and Pattern Recognition, 2015.
 Yeqing Li, Chen Chen, Fei Yang, Junzhou Huang,
 IEEE Conference on Computer Vision and Pattern Recognition, 2015.
 <a href="https://yfalan.github.io/files/papers/Yeqing_CVPR2015.pdf">PDF</a>
+<!---
 1. **[ICPR'14]** Robust Multi-Pose Facial Expression Recognition
 Q Hu, P Yang, X Peng, F Yang, D Metaxas,
 International Conference on Pattern Recognition, 2014.
@@ -60,6 +61,7 @@ IEEE Conference on Automatic Face and Gesture Recognition, 2013.
 1. **[ICIP’13]** Adaptive low rank and sparse decomposition of video using compressive sensing,
 F Yang, H Jiang, Z Shen, W Deng, D Metaxas,
 International Conference on Image Processing, 2013.
+-->
 1. **[CVPR'12]** Facial Expression Editing in Video Using a Temporally-Smooth Factorization,
 Fei Yang, Lubomir Bourdev, Eli Shechtman, Jue Wang, Dimitris Metaxas,
 IEEE Conference on Computer Vision and Pattern Recognition, 2012.
@@ -69,6 +71,7 @@ Fei Yang, Eli Shechtman, Jue Wang, Lubomir Bourdev, Dimitris Metaxas,
 Graphics Interface, 2012.
 <a href="https://yfalan.github.io/files/papers/FeiYang_GI2012.pdf">PDF</a>
 <a href="https://yfalan.github.io/files/ppt/Feiyang_GI2012_slides.pdf">PPT</a>
+<!---
 1. **[ISBI'12]** Compressed Magnetic Resonance Imaging Based on Wavelet Sparsity and Nonlocal Total Variation,
 Junzhou Huang, Fei Yang,
 IEEE International Symposium on Biomedical Imaging, 2012.
@@ -81,17 +84,20 @@ International Conference on Image Processing, 2012.
 1. **[LREC'12]** Recognition of Nonmanual Markers in American Sign Language (ASL) Using Non-Parametric Adaptive 2D-3D Face Tracking,
 D Metaxas, B Liu, F Yang, P Yang, N Michael, C Neidle,
 8th International Conference on Language Resources and Evaluation (LREC) 2012.
+-->
 1. **[SIGGRAPH'11]** 3D-Aware Expression Flow for 2D Face Compositing,
 Fei Yang, Jue Wang, Eli Shechtman, Lubomir Bourdev, Dimitris Metaxas,
 ACM special interest group on Computer Graphics and Interactive Techniques, SIGGRAPH, 2011.
 <a href="https://yfalan.github.io/files/papers/FeiYang_Siggraph2011s.pdf">PDF</a>
 <a href="https://yfalan.github.io/files/ppt/Feiyang_Siggraph2011_slides.pdf">PPT</a>
+<!---
 1. **[FG'11]** Eye Localization through Multiscale Sparse Dictionaries,
 Fei Yang, Junzhou Huang, Peng Yang, Dimitris Metaxas,
 IEEE Conference on Automatic Face and Gesture Recognition, 2011.
 1. **[FG'11]** Sparse Shape Registration for Occluded Facial Feature Localization,
 Fei Yang, Junzhou Huang, Dimitris Metaxas,
 IEEE Conference on Automatic Face and Gesture Recognition, 2011.
+-->
 
 ### Patents
 1. 一种教学场景下的教师风格语义空间构建方法, TAL 2019.
