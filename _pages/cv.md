@@ -19,10 +19,10 @@ redirect_from:
 ### Work Experiences
 
 * 2021/03 - now: Kuaishou, Architect, Engineering Manager
-  * Multimedia understanding, for recommendation systems, integrity, and automatic content generation.
+  * Multimedia understanding, for recommendation systems, integrity, and automatic content generation
 
 * 2018/08 - 2021/03: TAL Education, Research Scientist, Engineering Director
-  * AI for education, including AI classroom, AI teacher, .
+  * AI for education, including AI classroom, AI teacher, etc.
 
 * 2013/07 - 2018/08: Facebook, Research Scientist
   * Computer vision infrastructure and backend services
