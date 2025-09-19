@@ -33,6 +33,12 @@ Neurocomputing, 2012.
 
 ### Selected Conference Papers
 
+1. **[NeurIPS'25]** Improving Video Generation with Human Feedback,
+Jie Liu, Gongye Liu, Jiajun Liang, Ziyang Yuan, Xiaokun Liu, Mingwu Zheng, Xiele Wu, Qiulin Wang, Menghan Xia, Xintao Wang, Xiaohong Liu, Fei Yang, Pengfei Wan, Di ZHANG, Kun Gai, Yujiu Yang, Wanli Ouyang,
+Annual Conference on Neural Information Processing Systems, 2025.
+1. **[CVPR'25]** Koala-36M: A Large-scale Video Dataset Improving Consistency between Fine-grained Conditions and Video Content,
+Qiuheng Wang, Yukai Shi, Jiarong Ou, Rui Chen, Ke Lin, Jiahao Wang, Boyuan Jiang, Haotian Yang, Mingwu Zheng, Xin Tao, Fei Yang, Pengfei Wan, Di Zhang,
+IEEE Conference on Computer Vision and Pattern Recognition, 2025.
 1. **[ICCV'19]** Efficient Segmentation: Learning Downsampling Near Semantic Boundaries,
 Dmitrii Marin, Zijian He, Peter Vajda, Priyam Chatterjee, Sam Tsai, Fei Yang, Yuri Boykov,
 International Conference on Computer Vision, 2019.
